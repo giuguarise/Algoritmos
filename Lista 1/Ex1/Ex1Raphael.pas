@@ -25,7 +25,7 @@ begin
     writeln('X1 vale: ', x1:5:4); //:10 apresentada em 10 posicoes/numeros de caracteres, :4 numero de casas decimais
     writeln('X2 vale: ', x2:5:4);
   end;
-
+  write('Giulia melhor pessoa um gênio, de fato ela é 1+1+1=1 e vai 1')
   write('Enter para encerrar');
   readln;
 end
